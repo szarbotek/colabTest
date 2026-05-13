@@ -34,7 +34,7 @@ Activate funtion to `git clone` repositoy with some control of project level add
 clone_repo "colabTest" "https://github.com/szarbotek/colabTest"```
 ```
 
-For python test in colab `.ipynb`
+For python test of `module_test.py` in colab `.ipynb`
 
 ```python 
 
